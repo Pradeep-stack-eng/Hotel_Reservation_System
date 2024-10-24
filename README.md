@@ -37,3 +37,16 @@ Configure the database connection in the project files.
 
 Run the project in NetBeans IDE to launch the application.
 
+
+Here, I drop some glip of system login dashboard and Receception
+
+Login
+
+![login](https://github.com/user-attachments/assets/d328c5c8-76ac-45d8-abd4-135539fd8312)
+
+
+Dashboard
+![Screenshot (45)](https://github.com/user-attachments/assets/4aba9e84-1324-4725-927d-1a0e502d2d28)
+
+Rececption
+![Screenshot (54)](https://github.com/user-attachments/assets/af2f429b-a782-4bd5-a58f-c102cd938d35)
