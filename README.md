@@ -28,8 +28,12 @@ Installation & Setup
 Clone the repository:
 
 git clone https://github.com/yourusername/Annapurna-Paradise-Hotel.git
+
 Open the project in NetBeans IDE.
+
 Set up the MySQL database using the provided SQL scripts in the /database folder.
+
 Configure the database connection in the project files.
+
 Run the project in NetBeans IDE to launch the application.
 
